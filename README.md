@@ -1,6 +1,6 @@
 # clase_dam
-##Introduccion
+## Introduccion
 ljsdf
 ## Modo de empleo
 [acceso a la app](https://www.google.es)
-*Usa la aplicacion bajo tu responsabilidad*
+* Usa la aplicacion bajo tu responsabilidad *
